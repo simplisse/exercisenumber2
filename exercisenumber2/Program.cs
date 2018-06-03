@@ -56,8 +56,8 @@ namespace exercisenumber2
 
         public class Accounts
         {
-            public double balance { get; set; }
-            public string firstName { get; set; }
+            public double balance { get; set; } // chack balance
+            public string firstName { get; set; } //chack your full name
             public string lastName { get; set; }
 
             public void GetBalance()
